@@ -26,7 +26,8 @@
   - [官網](https://bun.sh/)
   - [Github](https://github.com/oven-sh/bun)
   - 開發者: [Jarred Sumner](https://github.com/Jarred-Sumner)
-  - [原生支援 TypeScript](https://bun.sh/docs/runtime/typescript): 以往Node.js使用TS需使用其他套件(如: [ts-node](https://github.com/TypeStrong/ts-node) )，或編譯器(如: [tsc](https://nodejs.org/en/learn/getting-started/nodejs-with-typescript#examples ))去轉成JS執行
+  - [原生支援 TypeScript](https://bun.sh/docs/runtime/typescript)
+	> 以往Node.js使用TS需使用其他套件(如: [ts-node](https://github.com/TypeStrong/ts-node) )，或編譯器(如: [tsc](https://nodejs.org/en/learn/getting-started/nodejs-with-typescript#examples ))去轉成JS執行
   - [使用Safari的JavaScriptCore引擎](https://developer.apple.com/documentation/javascriptcore)
   - 2023年9月份終於推出1.0正式版本:
     - [官方Blog](https://bun.sh/blog/bun-v1.0)
@@ -50,7 +51,7 @@
   - 與Node.js同開發者: [Ryan Dahl](https://tinyclouds.org/)
   - [原生支援 TypeScript](https://docs.deno.com/runtime/manual/advanced/typescript/overview)
   - [與Node.js一樣使用[V8引擎](https://v8.dev/ )、以及[Rust語言](https://www.rust-lang.org/zh-TW )所構建的執行環境(Node.js使用C++)]
-  - Deno Land(Deno的雲端Library、Modules):
+  - Deno Land(Deno的雲端Library、Modules)
     - Deno最大的特點就是引入模組不再過度依賴npm下載套件然後建立又肥又複雜的node_module目錄了，可使用CDN從雲端函式庫去引入，當然要[使用npm](https://docs.deno.com/runtime/manual/node) 還是可以的。
     - [Deno Standard Modules](https://deno.land/std): 標準函式庫
     - [Deno Third Party Modules](https://deno.land/x): 第三方函式庫
