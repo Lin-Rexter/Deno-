@@ -4,7 +4,7 @@
 
 ## Deno: 改善Node.js十大技術債的新JavaScript runtime(JS執行環境)
 
-<img src="https://deno.com/blog/v1/cover_wide.jpg" alt="Deno">
+<a href="https://deno.com/blog/v1" target="blank"><img align="center" src="https://deno.com/blog/v1/cover_wide.jpg" alt="Deno"></a>
 
 </div>
 
