@@ -19,7 +19,7 @@
 <details>
   <summary>
 
-### 關於Bun的相關資訊
+#### 關於Bun的相關資訊
 
   </summary>
 
@@ -41,7 +41,7 @@
 <details>
   <summary>
 
-### Deno是什麼?
+#### Deno是什麼?
 
   </summary>
 
@@ -75,7 +75,7 @@
 <details>
   <summary>
 
-### ✨ : 讓Ryan Dahl懊悔不已的Node.js十大技術債[ 取自Deno如何償還Node.js十大技術債（上） ]
+#### ✨ : 讓Ryan Dahl懊悔不已的Node.js十大技術債[ 取自Deno如何償還Node.js十大技術債（上） ]
 
   </summary>
 
@@ -91,10 +91,6 @@
   - 無用的index.js設計。
 
 </details>
-
----
-
-##### *怎麼打這麼多了...*
 
 ---
 
