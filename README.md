@@ -18,7 +18,7 @@
 
 <details open>
   <summary>
-	### 關於Bun的相關資訊
+	<h1 id="header">關於Bun的相關資訊</h1>
   </summary>
 
   - [官網](https://bun.sh/)
