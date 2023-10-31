@@ -18,9 +18,7 @@
 
 <details>
   <summary>
-
-#### 關於Bun的相關資訊
-
+	關於Bun的相關資訊
   </summary>
 
   - [官網](https://bun.sh/)
@@ -41,9 +39,7 @@
 
 <details>
   <summary>
-
-#### Deno是什麼?
-
+	Deno是什麼?
   </summary>
 
   - [官網](https://deno.com/)
@@ -74,9 +70,7 @@
 
 <details>
   <summary>
-
-#### ✨ : 讓Ryan Dahl懊悔不已的Node.js十大技術債[ [取自Deno如何償還Node.js十大技術債（上）](https://www.ithome.com.tw/news/128189) ]
-
+	✨ : 讓Ryan Dahl懊悔不已的Node.js十大技術債[ [取自Deno如何償還Node.js十大技術債（上）](https://www.ithome.com.tw/news/128189) ]
   </summary>
 
   - 沒用JavaScript非同步處理的Promise物件。
