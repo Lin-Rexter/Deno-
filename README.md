@@ -13,13 +13,12 @@
 ### 主要非常非常地簡單介紹一下Deno這個JS Runtime。
 
 
-<blockquote>
-	<p>前言: JS執行環境除了常聽到的Node.js(2009 年推出)之外，還有後來的Bun(2022年推出，同樣也是要改善Node.js的缺點所誕生Runtime + 多合一工具包)，以及要來討論的主角: Deno(2018年推出) 😍😍😍😍😍(冷靜...。</p>
-</blockquote>
+> 前言: JS執行環境除了常聽到的Node.js(2009 年推出)之外，還有後來的Bun(2022年推出，同樣也是要改善Node.js的缺點所誕生Runtime + 多合一工具包)，以及要來討論的主角: Deno(2018年推出) 😍😍😍😍😍(冷靜...。</p>
+
 
 <details open>
   <summary>
-	<h1 id="header">關於Bun的相關資訊</h1>
+	<h2>關於Bun的相關資訊</h2>
   </summary>
 
   - [官網](https://bun.sh/)
@@ -40,7 +39,7 @@
 
 <details open>
   <summary>
-	Deno是什麼?
+	<h2>Deno是什麼?</h2>
   </summary>
 
   - [官網](https://deno.com/)
@@ -71,7 +70,7 @@
 
 <details open>
   <summary>
-	✨ : 讓Ryan Dahl懊悔不已的Node.js十大技術債[ [取自Deno如何償還Node.js十大技術債（上）](https://www.ithome.com.tw/news/128189) ]
+	<h2>✨讓Ryan Dahl懊悔不已的Node.js十大技術債[ [取自Deno如何償還Node.js十大技術債（上）](https://www.ithome.com.tw/news/128189) ]</h2>
   </summary>
 
   - 沒用JavaScript非同步處理的Promise物件。
