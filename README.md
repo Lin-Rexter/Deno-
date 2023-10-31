@@ -13,8 +13,9 @@
 ### 主要非常非常地簡單介紹一下Deno這個JS Runtime。
 
 
-> 前言: JS執行環境除了常聽到的Node.js(2009 年推出)之外，還有後來的Bun(2022年推出，同樣也是要改善Node.js的缺點所誕生Runtime + 多合一工具包)，以及要來討論的主角: Deno(2018年推出) 😍😍😍😍😍(冷靜...。
-
+<blockquote>
+	<p>前言: JS執行環境除了常聽到的Node.js(2009 年推出)之外，還有後來的Bun(2022年推出，同樣也是要改善Node.js的缺點所誕生Runtime + 多合一工具包)，以及要來討論的主角: Deno(2018年推出) 😍😍😍😍😍(冷靜...。</p>
+</blockquote>
 
 <details open>
   <summary>
