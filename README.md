@@ -16,7 +16,7 @@
 > 前言: JS執行環境除了常聽到的Node.js(2009 年推出)之外，還有後來的Bun(2022年推出，同樣也是要改善Node.js的缺點所誕生Runtime + 多合一工具包)，以及要來討論的主角: Deno(2018年推出) 😍😍😍😍😍(冷靜...。
 
 
-<details>
+<details open>
   <summary>
 	關於Bun的相關資訊
   </summary>
@@ -37,7 +37,7 @@
 
  </details>
 
-<details>
+<details open>
   <summary>
 	Deno是什麼?
   </summary>
@@ -68,7 +68,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>
 	✨ : 讓Ryan Dahl懊悔不已的Node.js十大技術債[ [取自Deno如何償還Node.js十大技術債（上）](https://www.ithome.com.tw/news/128189) ]
   </summary>
