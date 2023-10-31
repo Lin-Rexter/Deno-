@@ -18,7 +18,7 @@
 
 <details open>
   <summary>
-	關於Bun的相關資訊
+	### 關於Bun的相關資訊
   </summary>
 
   - [官網](https://bun.sh/)
