@@ -74,7 +74,7 @@
 <details>
   <summary>
 
-#### ✨ : 讓Ryan Dahl懊悔不已的Node.js十大技術債[ 取自Deno如何償還Node.js十大技術債（上） ]
+#### ✨ : 讓Ryan Dahl懊悔不已的Node.js十大技術債[ [取自Deno如何償還Node.js十大技術債（上）](https://www.ithome.com.tw/news/128189) ]
 
   </summary>
 
