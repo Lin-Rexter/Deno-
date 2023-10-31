@@ -70,9 +70,9 @@
 
 <details open>
   <summary>
-	<h2>✨讓Ryan Dahl懊悔不已的Node.js十大技術債[ [取自Deno如何償還Node.js十大技術債（上）](https://www.ithome.com.tw/news/128189) ]</h2>
+	<h2>✨讓Ryan Dahl懊悔不已的Node.js十大技術債</h2>
   </summary>
-
+  > [取自Deno如何償還Node.js十大技術債（上）](https://www.ithome.com.tw/news/128189)
   - 沒用JavaScript非同步處理的Promise物件。
   - 低估安全的重要。
   - 採用gyp來設計Build系統。
