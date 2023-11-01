@@ -59,14 +59,14 @@
   - [Deno Deploy](https://deno.com/deploy): JavaScript應用的全球分散式serverless雲端平台，我自己的[網站](https://rexfox.deno.dev/ )也是架設在上面，速度非常快
     - [文檔](https://docs.deno.com/deploy/manual)
   - [Deno KV](https://docs.deno.com/kv/manual): Key-Value資料庫(NoSQL)
-  - ✨ : JSConf EU 2018 歐洲大會演講(6月初): [我爲Node.js感到後悔的十件事](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+  - ✨ JSConf EU 2018 歐洲大會演講(6月初): [我爲Node.js感到後悔的十件事](https://www.youtube.com/watch?v=M3BM9TB-8yA)
     - [演講簡報](https://tinyclouds.org/jsconf2018.pdf)
-  - ✨ : 來台演講JSDC 2018(11月，富邦人壽大樓國際會議中心): [Deno，A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE&list=PL8dIIwCMF-SP9LpiqVypGKHLaGNm8vQ29)
+  - ✨ 來台演講JSDC 2018(11月，富邦人壽大樓國際會議中心): [Deno，A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE&list=PL8dIIwCMF-SP9LpiqVypGKHLaGNm8vQ29)
     - [演講筆記](https://hackmd.io/c/JSDC2018/%2FYByw2CjTTeyRNXIbONNrcg)
   - Deno如何償還Node.js十大技術債:
     - [（上）](https://www.ithome.com.tw/news/128189)
     - [（下）](https://www.ithome.com.tw/news/128190)
-  - 😂 : [求不要更新了，老子学不动了](https://github.com/denoland/deno/issues/25)
+  - 😂 [求不要更新了，老子学不动了](https://github.com/denoland/deno/issues/25)
   - [Deno 入門指南](https://ianchen0119.gitbook.io/deno/)
     - [Deno 跟 Node.js 的主要差異](https://ianchen0119.gitbook.io/deno/an-zhuang-bing-shi-yong-deno/deno-gen-node.js-de-zhu-yao-cha-yi)
   - [初探 Deno — 與 Node.js 的淺比較(IT鐵人賽)](https://ithelp.ithome.com.tw/articles/10250363)
