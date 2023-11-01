@@ -20,7 +20,7 @@
 
   <summary>
     Bun<br>
-    <h2>✨關於Bun的相關資訊</h2>
+    <h2>✨Bun簡易介紹</h2>
   </summary>
 
   - [官網](https://bun.sh/)
@@ -44,7 +44,7 @@
 <details open>
   <summary>
     Deno<br>
-    <h2>✨Deno是什麼?</h2>
+    <h2>✨Deno介紹</h2>
   </summary>
 
   - [官網](https://deno.com/)
