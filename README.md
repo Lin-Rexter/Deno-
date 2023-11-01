@@ -62,7 +62,7 @@
   - ✨ : JSConf EU 2018 歐洲大會演講(6月初): [我爲Node.js感到後悔的十件事](https://www.youtube.com/watch?v=M3BM9TB-8yA)
     - [演講簡報](https://tinyclouds.org/jsconf2018.pdf)
   - ✨ : 來台演講JSDC 2018(11月，富邦人壽大樓國際會議中心): [Deno，A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE&list=PL8dIIwCMF-SP9LpiqVypGKHLaGNm8vQ29)
-  - [演講筆記](https://hackmd.io/c/JSDC2018/%2FYByw2CjTTeyRNXIbONNrcg)
+    - [演講筆記](https://hackmd.io/c/JSDC2018/%2FYByw2CjTTeyRNXIbONNrcg)
   - Deno如何償還Node.js十大技術債:
     - [（上）](https://www.ithome.com.tw/news/128189)
     - [（下）](https://www.ithome.com.tw/news/128190)
