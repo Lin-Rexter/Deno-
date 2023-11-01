@@ -43,7 +43,7 @@
 
 <details open>
   <summary>
-    Deno
+    Deno<br>
     <h2>✨Deno是什麼?</h2>
   </summary>
 
@@ -77,7 +77,7 @@
 
 <details open>
   <summary>
-    Node.js十大技術債
+    Node.js十大技術債<br>
 	<h2>✨讓Ryan Dahl懊悔不已的Node.js十大技術債</h2>
   </summary>
 
