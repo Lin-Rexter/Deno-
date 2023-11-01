@@ -19,7 +19,7 @@
 <details open>
 
   <summary>
-    Bun
+    Bun|
     <h2>✨關於Bun的相關資訊</h2>
   </summary>
 
