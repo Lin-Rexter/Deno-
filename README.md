@@ -96,6 +96,8 @@
 
 </details>
 
+## 備註
+**內容如有誤，歡迎提出修正建議。**
 
 ## License
 **[MIT](https://github.com/Lin-Rexter/AI_Hub_Discord-Bot/blob/1902f8e112c3e682ab041c39864d8bb8c7f78a24/LICENSE)**
