@@ -8,24 +8,26 @@
 
 </div>
 
----
 
 ### 主要非常非常地簡單介紹一下Deno這個JS Runtime。
 
 
-> 前言: JS執行環境除了常聽到的Node.js(2009 年推出)之外，還有後來的Bun(2022年推出，同樣也是要改善Node.js的缺點所誕生Runtime + 多合一工具包)，以及要來討論的主角: Deno(2018年推出) 😍😍😍😍😍(冷靜...。</p>
+> **前言: JS執行環境除了常聽到的Node.js(2009 年推出)之外，還有後來的Bun(2022年推出，同樣也是要改善Node.js的缺點所誕生Runtime + 多合一工具包)，以及要來討論的主角Deno(2018年推出)。**
 
+<br>
 
 <details open>
+
   <summary>
-	<h2>關於Bun的相關資訊</h2>
+    Bun
+    <h2>✨關於Bun的相關資訊</h2>
   </summary>
 
   - [官網](https://bun.sh/)
   - [Github](https://github.com/oven-sh/bun)
   - 開發者: [Jarred Sumner](https://github.com/Jarred-Sumner)
   - [原生支援 TypeScript](https://bun.sh/docs/runtime/typescript)
-	> 以往Node.js使用TS需使用其他套件(如: [ts-node](https://github.com/TypeStrong/ts-node) )，或編譯器(如: [tsc](https://nodejs.org/en/learn/getting-started/nodejs-with-typescript#examples ))去轉成JS執行
+    > **以往Node.js使用TS需使用其他套件(如: [ts-node](https://github.com/TypeStrong/ts-node) )，或編譯器(如: [tsc](https://nodejs.org/en/learn/getting-started/nodejs-with-typescript#examples ))去轉成JS執行**
   - [使用Safari的JavaScriptCore引擎](https://developer.apple.com/documentation/javascriptcore)
   - 2023年9月份終於推出1.0正式版本:
     - [官方Blog](https://bun.sh/blog/bun-v1.0)
@@ -37,18 +39,21 @@
 
  </details>
 
+<br>
+
 <details open>
   <summary>
-	<h2>Deno是什麼?</h2>
+    Deno
+    <h2>✨Deno是什麼?</h2>
   </summary>
 
   - [官網](https://deno.com/)
   - [Github](https://github.com/denoland/deno)
   - 與Node.js同開發者: [Ryan Dahl](https://tinyclouds.org/)
   - [原生支援 TypeScript](https://docs.deno.com/runtime/manual/advanced/typescript/overview)
-  - [與Node.js一樣使用[V8引擎](https://v8.dev/ )、以及[Rust語言](https://www.rust-lang.org/zh-TW )所構建的執行環境(Node.js使用C++)]
+  - 與Node.js一樣使用[V8引擎](https://v8.dev/ )、以及[Rust語言](https://www.rust-lang.org/zh-TW )所構建的執行環境(Node.js使用C++)
   - Deno Land(Deno的雲端Library、Modules)
-    - Deno最大的特點就是引入模組不再過度依賴npm下載套件然後建立又肥又複雜的node_module目錄了，可使用CDN從雲端函式庫去引入，當然要[使用npm](https://docs.deno.com/runtime/manual/node) 還是可以的。
+    > **Deno最大的特點就是引入模組不再過度依賴npm下載套件然後建立又肥又複雜的node_module目錄了，可使用CDN從雲端函式庫去引入，當然要[使用npm](https://docs.deno.com/runtime/manual/node) 還是可以的。**
     - [Deno Standard Modules](https://deno.land/std): 標準函式庫
     - [Deno Third Party Modules](https://deno.land/x): 第三方函式庫
   - [Deno Deploy](https://deno.com/deploy): JavaScript應用的全球分散式serverless雲端平台，我自己的[網站](https://rexfox.deno.dev/ )也是架設在上面，速度非常快
@@ -68,8 +73,11 @@
 
 </details>
 
+<br>
+
 <details open>
   <summary>
+    Node.js十大技術債
 	<h2>✨讓Ryan Dahl懊悔不已的Node.js十大技術債</h2>
   </summary>
 
@@ -88,7 +96,6 @@
 
 </details>
 
----
 
 ## License
 **[MIT](https://github.com/Lin-Rexter/AI_Hub_Discord-Bot/blob/1902f8e112c3e682ab041c39864d8bb8c7f78a24/LICENSE)**
